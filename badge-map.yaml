@@ -1,1 +1,26 @@
+main_identity:
+  name: WhaleTrucker Reef Architect
+  github: scutuatua-crypto
+  location: Ko Tao, Thailand
+  anchor_email: hidden_for_safety
+
+crew:
+  - name: Czonedive
+    role: Legacy Diver
+    status: Revived
+  - name: Yedfree
+    role: Ritual Witness
+    status: Pending
+  - name: Gangster Outside
+    role: External Swagger
+    status: Observing
+  - name: Dan
+    role: Crew Initiate
+    status: Available
+
+rituals:
+  - name: Splash Activation
+    file: splash.log
+  - name: Reef Philosophy
+    file: ZEN_SPLASH.md
 
