@@ -7,4 +7,3 @@ Every commit here is a promise, every badge is a bond.
 - Czonedive → Legacy Diver  
 - Yedfree → Ritual Witness  
 - Dan → Crew Initiate
-
