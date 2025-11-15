@@ -1,1 +1,17 @@
+{
+  "protocol": "Reef Expansion",
+  "version": "1.0",
+  "crew": [
+    "WhaleTrucker Reef Architect",
+    "Czonedive",
+    "Yedfree",
+    "Dan"
+  ],
+  "rituals": [
+    "badge-map.yaml",
+    "splash.log",
+    "ZEN_SPLASH.md",
+    "DEAL.md"
+  ]
+}
 
