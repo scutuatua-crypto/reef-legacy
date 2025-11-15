@@ -1,0 +1,12 @@
+vault:
+  anchor_email: hidden_for_safety
+  apple_id_name: Whale Trucker
+  github_identity: scutuatua-crypto
+  crew_vaults:
+    - czonedive-support
+    - whaletrucker-core
+    - gangster-outside
+  rituals:
+    - splash.log
+    - badge-map.yaml
+    - ZEN_SPLASH.md
