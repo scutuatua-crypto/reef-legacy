@@ -8,3 +8,4 @@
 | `DEAL.md`       | 🤝     | Crew Agreement Badge      | ![Crew Agreement](https://img.shields.io/badge/Crew-Agreement-orange)          |
 | `legacy.json`   | 🌀     | Protocol Expansion Badge  | ![Protocol Expansion](https://img.shields.io/badge/Protocol-Expansion-teal)    |
 
+
