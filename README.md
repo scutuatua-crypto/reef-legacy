@@ -40,3 +40,8 @@ cp .env.example .env
 
 # run dev
 npm run dev
+# build image
+docker build -t reef-legacy .
+
+# run stack
+docker-compose up
