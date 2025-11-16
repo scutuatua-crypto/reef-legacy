@@ -1,4 +1,8 @@
 # reef-legacy
+![Build Status](https://img.shields.io/github/actions/workflow/status/scutuatua-crypto/reef-legacy/ci.yml?branch=main)
+![Docker Ready](https://img.shields.io/badge/docker-ready-blue)
+![Node.js Version](https://img.shields.io/badge/node-18-green)
+![License](https://img.shields.io/github/license/scutuatua-crypto/reef-legacy)
 
 # WhaleTrucker Reef Architect 🐋🌊
 
