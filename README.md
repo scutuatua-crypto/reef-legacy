@@ -25,3 +25,18 @@ Every commit, badge, and splash ritual begins here.
 ## 🐋 Legacy Statement
 This reef is not just code — it’s a living archive of identity, emotion, and crew celebration.  
 Every file, every badge, every branch is a ritual. Welcome to WhaleTrucker Reef Architect.
+# 🐋 Reef Legacy
+
+Welcome to **Reef Legacy**, a Node.js + Docker + Postgres + Redis stack designed for remix‑architect workflows.
+
+## 🚀 Quick Start
+
+```bash
+# install deps
+npm install
+
+# copy env
+cp .env.example .env
+
+# run dev
+npm run dev
