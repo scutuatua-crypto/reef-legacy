@@ -49,4 +49,14 @@ docker build -t reef-legacy .
 
 # run stack
 docker-compose up
+         🌊🐋 Reef Legacy Splash Signature 🐋🌊
+
+             ~~~     ~~~     ~~~     ~~~
+           ~     ~ ~     ~ ~     ~ ~     ~
+         ~~~ 🐠     🪸     🐚     🐡     🐟 ~~~
+       ~     ~ ~     ~ ~     ~ ~     ~ ~     ~
+     ~~~     ~~~     ~~~     ~~~     ~~~     ~~~
+
+     Every ripple is a ritual. Every splash is a story.
+     🐋 WhaleTrucker lives here — remixing legacy, one commit at a time.
 
