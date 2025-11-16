@@ -49,3 +49,4 @@ docker build -t reef-legacy .
 
 # run stack
 docker-compose up
+
