@@ -20,4 +20,6 @@
     "eslint": "^8.51.0"
   }
 }
-
+"scripts": {
+  "test": "jest"
+}
