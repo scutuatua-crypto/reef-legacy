@@ -3,6 +3,7 @@
 ![Docker Ready](https://img.shields.io/badge/docker-ready-blue)
 ![Node.js Version](https://img.shields.io/badge/node-18-green)
 ![License](https://img.shields.io/github/license/scutuatua-crypto/reef-legacy)
+
 🏅 docs: add identity badge table to README
 
 # WhaleTrucker Reef Architect 🐋🌊
@@ -129,3 +130,5 @@ npm run build
 ## Badges
 ![CI](https://github.com/scutuatua-crypto/reef-legacy/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+git add README.md
+git commit -m "docs: add README template"
