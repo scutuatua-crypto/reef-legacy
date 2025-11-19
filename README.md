@@ -58,5 +58,55 @@ docker-compose up
      ~~~     ~~~     ~~~     ~~~     ~~~     ~~~
 
      Every ripple is a ritual. Every splash is a story.
+
      🐋 WhaleTrucker lives here — remixing legacy, one commit at a time.
 
+# Hi there, I'm scutuatua-crypto 👋
+
+I build user-facing crypto apps and tooling — wallets, block explorers, smart contract helpers, and developer SDKs.  
+I focus on secure, auditable, and user-friendly code — every commit is a ritual, every badge a splash 🌊✨
+
+- 🔭 I’m currently working on: [reef-legacy](https://github.com/scutuatua-crypto/reef-legacy) — living reef protocol for identity, emotion, and crew celebration
+- 🌱 I’m learning: advanced zk tech, MEV protections, and secure key management
+- 👯 I’m open to collaborating on: open-source crypto infra, wallets, and developer SDKs
+- 💬 Ask me about: Solidity, Rust (WASM), TypeScript, Node.js, Postgres, Docker
+- ⚡ Fun fact: I remix workflows into Swagger‑rich rituals
+
+---
+
+## Skills & Tech
+- Languages: Solidity, Rust, TypeScript, JavaScript, Python
+- Web & Backend: Node.js, Express, Next.js, GraphQL
+- Blockchain & Crypto: Ethereum, EVM tooling (Hardhat, Foundry), wallets, web3.js / ethers.js
+- Databases & Infra: PostgreSQL, Redis, Docker, Kubernetes basics
+- Testing & Security: unit tests, property testing, audits, CI/CD
+
+---
+
+## Featured Projects
+- [reef-legacy](https://github.com/scutuatua-crypto/reef-legacy) — living reef protocol, CI/CD rituals, badges, splash logs
+- [swagger-flow](https://github.com/scutuatua-crypto/swagger-flow) — developer tooling for onboarding and asset mapping
+- [crypto-utils](https://github.com/scutuatua-crypto/crypto-utils) — smart contract helpers and wallet SDKs
+
+---
+
+## Support This Reef
+This project is part of the Reef Legacy Collective.  
+Support the rituals, badges, and splash logs at:  
+👉 [opencollective.com/reef-legacy](https://opencollective.com/reef-legacy)
+
+---
+
+## How to reach me
+- Website: https://your-website.example
+- Twitter / X: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: https://www.linkedin.com/in/yourname
+
+---
+
+## GitHub Stats
+![scutuatua-crypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=scutuatua-crypto&show_icons=true&theme=github_dark)
+
+---
+
+_"Crypto software engineer — building secure wallets, developer SDKs, and open-source tooling."_  
