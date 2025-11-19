@@ -3,3 +3,30 @@ node_modules
 npm-debug.log
 Dockerfile
 .git
+# 🧹 chore: clean .gitignore for Node.js setup
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# System files
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Git metadata (only if repo is being packaged or mirrored)
+.git/
