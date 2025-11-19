@@ -111,3 +111,21 @@ Support the rituals, badges, and splash logs at:
 ---
 
 _"Crypto software engineer — building secure wallets, developer SDKs, and open-source tooling."_  
+# Reef Legacy 🌊
+
+Legacy Reef integrations, wallet adapters, and migration notes.
+
+## Quickstart
+git clone https://github.com/scutuatua-crypto/reef-legacy.git
+cd reef-legacy
+npm install
+npm run build
+
+## Features
+- Wallet adapters for Reef ecosystem
+- Migration roadmap for legacy contracts
+- Compatibility tests
+
+## Badges
+![CI](https://github.com/scutuatua-crypto/reef-legacy/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
