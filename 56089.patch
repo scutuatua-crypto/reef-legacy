@@ -1,0 +1,27 @@
+From ce1cdfe47a20ca1a6eab846858603726dc444c36 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Philip=20J=C3=A4genstedt?= <philip@foolip.org>
+Date: Tue, 18 Nov 2025 14:45:53 +0100
+Subject: [PATCH] Map invalidation tests to media pseudo-classes features
+
+These tests are for the combination of :has() and the media element
+pseudo-classes, but they're important to consider when implementing the
+media element pseudo-classes, so label them for visibility.
+---
+ css/selectors/invalidation/WEB_FEATURES.yml | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/css/selectors/invalidation/WEB_FEATURES.yml b/css/selectors/invalidation/WEB_FEATURES.yml
+index 8f1768f4f26ddf..f0fb9ee3f52189 100644
+--- a/css/selectors/invalidation/WEB_FEATURES.yml
++++ b/css/selectors/invalidation/WEB_FEATURES.yml
+@@ -4,6 +4,10 @@ features:
+   - has-*
+   - "*-in-has.*"
+   - "*-in-has-*"
++- name: media-pseudos
++  files:
++  - media-loading-pseudo-classes-in-has.html
++  - media-pseudo-classes-in-has.html
+ - name: modal
+   files:
+   - modal-pseudo-class-in-has.html

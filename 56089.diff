@@ -1,0 +1,15 @@
+diff --git a/css/selectors/invalidation/WEB_FEATURES.yml b/css/selectors/invalidation/WEB_FEATURES.yml
+index 8f1768f4f26ddf..f0fb9ee3f52189 100644
+--- a/css/selectors/invalidation/WEB_FEATURES.yml
++++ b/css/selectors/invalidation/WEB_FEATURES.yml
+@@ -4,6 +4,10 @@ features:
+   - has-*
+   - "*-in-has.*"
+   - "*-in-has-*"
++- name: media-pseudos
++  files:
++  - media-loading-pseudo-classes-in-has.html
++  - media-pseudo-classes-in-has.html
+ - name: modal
+   files:
+   - modal-pseudo-class-in-has.html
