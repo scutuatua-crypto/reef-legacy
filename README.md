@@ -3,6 +3,7 @@
 ![Docker Ready](https://img.shields.io/badge/docker-ready-blue)
 ![Node.js Version](https://img.shields.io/badge/node-18-green)
 ![License](https://img.shields.io/github/license/scutuatua-crypto/reef-legacy)
+🏅 docs: add identity badge table to README
 
 # WhaleTrucker Reef Architect 🐋🌊
 
